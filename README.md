@@ -78,7 +78,7 @@ Link:
     -lpcre2-8 -luuid -lidn2 -lnettle -lgnutls -lz -lpsl ftp-opie.o 
     gnutls.o http-ntlm.o ../lib/libgnu.a /usr/lib/libunistring.so 
 
-Copyright (C) 2015 Free Software Foundation, Inc.
+Copyright (C) 2015 Free Software Foundation, Inc. 
 License GPLv3+: GNU GPL version 3 or later
 <http://www.gnu.org/licenses/gpl.html>.
 This is free software: you are free to change and redistribute it.
